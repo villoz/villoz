@@ -11,7 +11,7 @@
 <li>👨‍👩‍👧‍👦 I am a father to two wild children who keep me low on sleep but full of content</li>
 <li>🎮 If I'm not coding or gaming in my spare time, you can often find me outside on a run, trying a new recipe, and relaxing with a glass of red wine</li>
 </ul>
-<h2>some thoughts on management</h2>
+<h2>🤔 some thoughts on management</h2>
 <ul>
 <li>people leave managers more often than they leave companies</li>
 <li>trust is paramount.  build it and maintain it</li>
