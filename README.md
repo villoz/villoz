@@ -6,12 +6,12 @@
 <h2>👨🏽‍💻 about me</h2>
 <ul>
 <li>I am passionate about building performant, efficient, and cost-minimal software</li>
-<li>I have been managing engineering teams for nearly 5 years</li>
+<li>I have been managing engineering teams for ~5 years</li>
 <li>I am an AWS Certified Solutions Architect</li>
-<li>I am a father to two children who keep me low on sleep but full of happiness</li>
+<li>I am the father of two children</li>
 <li>If I'm not coding or gaming in my spare time, you can often find me outside on a run, trying a new recipe, and relaxing with a glass of red wine</li>
 </ul>
-<h2>🛠 some tools that i use or enjoy</h2>
+<h2>🛠 some tools that i like</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
