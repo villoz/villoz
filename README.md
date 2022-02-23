@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>👨🏽‍💻 about me</h2>
 <ul>
-<li>I build-a the software</li>
+<li>I builda the software</li>
 <li>I have been managing engineering teams for 5+ years</li>
 <li>I have two kids</li>
 <li>If I'm not coding, gaming, or spending time with family, i'm probably out for a run, trying a new recipe, or relaxing with a glass of red wine</li>
