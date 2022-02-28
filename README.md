@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Michael</h2>
 <p>I'm an engineering manager at <strong><a href="https://www.greenlight.com/">Greenlight</a></strong>. Based in 🍑 Atlanta, GA.</p>
 
-<p><a href="https://www.linkedin.com/in/michael-villarreal-b89b1165/"><img src="https://img.shields.io/badge/-@michael%20villarreal-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/michael-villarreal-b89b1165/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/1262446709"><img src="https://img.shields.io/badge/-@michael%20villarreal-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1262446709" alt="Spotify Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/michael-villarreal-b89b1165/"><img src="https://img.shields.io/badge/-@michael%20villarreal-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/michael-villarreal-b89b1165/" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>👨🏽‍💻 about me</h2>
 <ul>
