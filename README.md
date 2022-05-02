@@ -2,15 +2,9 @@
 <p>I'm an engineering manager at <strong><a href="https://www.greenlight.com/">Greenlight</a></strong>. Based in 🍑 Atlanta, GA.</p>
 
 <p><a href="https://www.linkedin.com/in/michael-villarreal-b89b1165/"><img src="https://img.shields.io/badge/-@michael%20villarreal-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/michael-villarreal-b89b1165/" alt="LinkedIn Badge"></a></p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>👨🏽‍💻 about me</h2>
-<ul>
-<li>I builda the software</li>
-<li>I have been managing engineering teams for 5+ years</li>
-<li>I have two kids</li>
-<li>If I'm not coding, gaming, or spending time with family, i'm probably out for a run, trying a new recipe, or relaxing with a glass of red wine</li>
-</ul>
-<h2>🛠 some tools that i like</h2>
+<h4>-- live feed --</h4>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>🛠 some pretty ok things i use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
